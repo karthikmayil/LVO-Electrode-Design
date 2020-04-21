@@ -1,0 +1,29 @@
+,Column_Names
+0,L (um)
+1,Porosity
+2,Vol Frac Cond
+3,C-rate (1/h)
+4,Vol Frac Bind
+5,tstep (s)
+6,Cathode Volume (cm3)
+7,Vol Frac AM
+8,AM Loading (g)
+9,Specific Current (mA/g)
+10,Current (A)
+11,Current Density (mA/cm2)
+12,AM Areal Loading (mg/cm2)
+13,Cond Loading (g)
+14,Bind Loading (g)
+15,Tortuosity (Bruggeman)
+16,Time
+17,Voltage
+18,mAh_exp
+19,fail_id
+20,Theta_Beta
+21,Integrated Voltage
+22,Capacity (mAh/g)
+23,Electrode Areal Energy Density (Wh/cm2)
+24,Electrode Volumetric Energy Density (Wh/cm3)
+25,Electrode Volumetric Power Density (W/cm3)
+26,Utilization_cr
+27,Utilization

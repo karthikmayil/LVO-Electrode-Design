@@ -1,4 +1,4 @@
-# Design-Principles-to-Govern-Electrode-Fabrication-for-the-Lithium-Trivanadate-Cathode
+# Design Principles to Govern Electrode Fabrication for the Lithium Trivanadate Cathode
 Simulation results and code used for analysis. Accompanies paper found at: https://iopscience.iop.org/article/10.1149/1945-7111/ab91c8
 
 To use interactive tool, follow the instructions below:

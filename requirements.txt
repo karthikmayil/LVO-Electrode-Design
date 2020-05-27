@@ -2,7 +2,7 @@ jupyter==1.0.0
 matplotlib==3.2.1
 numpy==1.18.4
 pandas==1.0.3
-seaborn==0.10.1
+#seaborn==0.10.1
 scipy==1.4.1
 voila==0.1.21
 ipympl==0.5.6

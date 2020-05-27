@@ -9,7 +9,7 @@ To use interactive tool, follow the instructions below:
 
  2) Clone this repository. Either download it from github, or type the following into your terminal:
  
-<code>git clone https://github.com/karthikmayil/Design-Principles-to-Govern-Electrode-Fabrication-for-the-Lithium-Trivanadate-Cathode</code>
+<code>git clone https://github.com/karthikmayil/LVO-Electrode-Design</code>
 
 <code>cd Design-Principles-to-Govern-Electrode-Fabrication-for-the-Lithium-Trivanadate-Cathode</code>
 

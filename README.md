@@ -1,6 +1,8 @@
 # Design Principles to Govern Electrode Fabrication for the Lithium Trivanadate Cathode
 Simulation results and code used for analysis and interactive plotting. Accompanies paper found at: https://iopscience.iop.org/article/10.1149/1945-7111/ab91c8
 
+**Important:** As of right now, these installation instructions work for those using a Mac/Linux. However, if you have jupyter notebooks set up on your Windows system, you can install the necessary packages in requirements.txt and open the notebook Design Principles to Govern Electrode Fabrication for the Lithium Trivanadate Cathode [Accompanying Code].ipynb in this repository. 
+
 To use the interactive tool, follow the instructions below:
 
 1) Make sure python3 is installed. The below command should work.

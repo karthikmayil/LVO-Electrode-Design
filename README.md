@@ -1,6 +1,8 @@
 # Design Principles to Govern Electrode Fabrication for the Lithium Trivanadate Cathode
 Simulation results and code used for analysis and interactive plotting. Accompanies paper found at: https://iopscience.iop.org/article/10.1149/1945-7111/ab91c8
 
+## Installation
+
 **Important:** As of right now, these installation instructions work for those using a Mac/Linux. However, if you have jupyter notebooks set up on your Windows system, you can install the necessary packages in requirements.txt and open the notebook Design Principles to Govern Electrode Fabrication for the Lithium Trivanadate Cathode [Accompanying Code].ipynb in this repository. 
 
 To use the interactive tool, follow the instructions below:
@@ -28,3 +30,11 @@ Change into this directory:
 4) Open the tool and interact! This same line can be executed to open the interactive tool again.
 
 <code>./run.sh</code>
+
+## What can I do with this tool?
+
+### Optimal Design
+
+You can use this tool to create plots that show the optimal design of a cathode to optimize a selected performance metric (energy, power, capacity for the electrode and for a cell). These plots show how optimal design parameter values vary with discharge rate, and include a sensitivity analysis. For example, a plot like below can be generated, which shows the design rules for optimizing cell energy density.
+
+

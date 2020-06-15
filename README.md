@@ -35,6 +35,18 @@ Change into this directory:
 
 ### Optimal Design
 
-You can use this tool to create plots that show the optimal design of a cathode to optimize a selected performance metric (energy, power, capacity for the electrode and for a cell). These plots show how optimal design parameter values vary with discharge rate, and include a sensitivity analysis. For example, a plot like below can be generated, which shows the design rules for optimizing cell energy density.
+This tool can be used to create plots that show the optimal design of a cathode to optimize a selected performance metric (energy, power, capacity for the electrode and for a cell). These plots show how optimal design parameter values vary with discharge rate, and include a sensitivity analysis. For example, a plot like below can be generated, which shows the optimal design as well as a shaded region showing sensitivity of performance to the design parameters.
 
 ![Example 1](/example_images/Figure1.png "Optimal Design")
+
+### Rate Capability
+
+Rate capability of electrodes prepared differently may be of interest as well. Plots like the one shown below can be created for cell and electrode power and energy densities, as well as electrode capacty delivered over a range of C-rates.
+
+![Example 2](/example_images/Figure2.png "Rate Capability")
+
+### Detailed Design Guide
+
+Looking at slices of the simulated data via contour maps like the one below can be very helpful in understanding the effects of different design paramters at different discharge rates. Choose the performance metric, and pick a design parameter to fix at a given discharge rate and explore a 2-D parameter space.
+
+![Example 3](/example_images/Figure3.png "Detailed Design Guide")

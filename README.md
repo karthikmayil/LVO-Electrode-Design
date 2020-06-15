@@ -17,7 +17,7 @@ Change into this directory:
 
 <code>cd LVO-Electrode-Design</code>
 
-3) The following commands need only be done once in terminal.
+3) The following commands need only be done once in terminal. Note: The last step, which installs necessary packages, might take a bit longer than the first two which will be very quick.
 
 <code>chmod +x install.sh</code>
 

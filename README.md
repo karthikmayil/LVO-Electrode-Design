@@ -49,4 +49,4 @@ Rate capability of electrodes prepared differently may be of interest as well. P
 
 Looking at slices of the simulated data via contour maps like the one below can be very helpful in understanding the effects of different design paramters at different discharge rates. Choose the performance metric, and pick a design parameter to fix at a given discharge rate and explore a 2-D parameter space.
 
-![Example 3](/example_images/Figure3.png "Detailed Design Guide")
+![Example 3](/example_images/Figure3.png "Detailed Design Guide" | width=100)

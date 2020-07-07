@@ -3,7 +3,7 @@ Simulation results and code used for analysis and interactive plotting. Accompan
 
 ## Installation
 
-**Important:** As of right now, these installation instructions work for those using a Mac/Linux. However, if you have jupyter notebooks set up on your Windows system, you can install the necessary packages in requirements.txt and open the notebook Design Principles to Govern Electrode Fabrication for the Lithium Trivanadate Cathode [Accompanying Code].ipynb in this repository. 
+**Important:** As of right now, these installation instructions work for those using a Mac/Linux. However, if you have jupyter notebooks set up on your Windows system, you can install the necessary packages in requirements.txt and open the notebook [LVO Electrode Design Tool.ipynb](https://github.com/karthikmayil/LVO-Electrode-Design/blob/master/LVO%20Electrode%20Design%20Tool.ipynb) in this repository. 
 
 To use the interactive tool, follow the instructions below:
 

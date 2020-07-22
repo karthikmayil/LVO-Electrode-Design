@@ -4,5 +4,6 @@ To this page you should add links to your interactive html-maps that are located
 
 Add here links to the maps that you have created:
 
- - [Link to test map](https://lvoelectrodedesign.io/LVO_Electrode_Design_Tool.html)
+ - [Link to test map](https://lvoelectrodedesign.io/LVO\ Electrode\ Design\ Tool.html)
  - Replace this with your link
+
